@@ -5,9 +5,21 @@
 
 ## Introduction
 
-This project involved using data analysis to determine the factors that contribute to my own meditation session quality and the presence of nimittas. For those who might not be familiar with this term, nimittas are visual phenomena that can appear during meditation when one is very focused and relaxed. They don't occur for every meditation practitioner, but I'm fortunate enough to be able to experience them and use them as an indicator of my meditation progress. 
+This project demonstrates how modern analytical approaches can efficiently extract meaningful insights from meditation practice data. By combining AI-augmented analytics with traditional statistical methods, I was able to rapidly develop and test multiple analytical frameworks while maintaining rigorous standards for insight generation and validation.
 
-The dataset consisted of 47 meditation sessions between July and November of 2024. It included a variety of variables, such as session date, start time, duration, sleep deprivation, and presence of nimittas.   
+The analysis focused on determining the factors that contribute to meditation session quality and the presence of nimittas, or visual phenomena that can appear during meditation when one is very focused and relaxed. Nimittas don't occur for every meditation practitioner, but I'm fortunate enough to be able to experience them and use them as an indicator of my meditation progress.
+
+The comprehensive nature of this analysis was enabled by leveraging modern analytical tools and approaches, allowing for rapid iteration through different analytical methods while maintaining depth and accuracy. This approach facilitated the exploration of various visualization techniques and statistical models, resulting in a richer understanding of the meditation practice data.
+
+The dataset consisted of 47 meditation sessions between August and October of 2024. It included a variety of variables, such as session date, start time, duration, sleep deprivation, and presence of nimittas. While traditional analysis might have required weeks of coding and debugging, modern analytical approaches allowed for rapid development of the database schema, analysis frameworks, and visualization tools, enabling a focus on insight generation rather than technical implementation.
+
+Through this efficient approach, I was able to implement:
+- Multiple visualization techniques for different aspects of the data
+- Statistical analysis including correlation studies and feature importance
+- Interactive dashboard development
+- Machine learning for predictive factor analysis
+
+The following sections provide an in-depth examination of the findings, demonstrating how this modern analytical approach can deliver sophisticated insights while maintaining analytical rigor.
 
 ## Tools and Libraries Used 
 - Data Analysis: Python, Pandas, Scikit-learn 
@@ -144,7 +156,6 @@ During this analysis, I realized that my lower duration sessions were often a re
 5. Investigate the relationship between time of day and initial focus level
 
 ## Contact
-For questions or collaboration opportunities, please reach out via:
-symmetry1@live.com
+For questions or collaboration opportunities, please reach out via symmetry1@live.com
 
 © 2024 Heath Hoppus
