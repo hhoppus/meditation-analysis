@@ -87,7 +87,7 @@ This project demonstrates modern analytical capabilities through:
 - Interactive dashboard development
 - Machine learning for feature importance analysis
 
-Implementation code is available in the `src` directory, showcasing how modern analytical tools can be combined to deliver comprehensive insights.
+Implementation code is available in the `src` directory for review. This code is provided to demonstrate technical approach and is not configured for external execution due to private data dependencies.
 
 For detailed analysis methodology and findings, see `ANALYSIS.md`.
 
