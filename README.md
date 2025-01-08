@@ -93,8 +93,12 @@ For detailed analysis methodology and findings, see `ANALYSIS.md`.
 
 ## Project Structure
 ```
-meditation-analysis/
+meditation_analysis/
 ├── README.md
+├── ANALYSIS.md
+├── .gitignore
+├── .env
+├── requirements.txt
 ├── images/
 │   └── [visualization images]
 └── src/
@@ -102,6 +106,6 @@ meditation-analysis/
 ```
 
 ## Contact
-For questions about this analytical approach or collaboration opportunities, please reach out via symmetry1@live.com
+For collaboration opportunities, please reach out via symmetry1@live.com
 
 © 2024 Heath Hoppus
