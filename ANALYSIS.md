@@ -156,6 +156,6 @@ During this analysis, I realized that my lower duration sessions were often a re
 5. Investigate the relationship between time of day and initial focus level
 
 ## Contact
-For collaboration opportunities, please reach out via symmetry1@live.com
+For collaboration opportunities, reach out via symmetry1@live.com
 
 © 2024 Heath Hoppus
