@@ -106,6 +106,6 @@ meditation_analysis/
 ```
 
 ## Contact
-For collaboration opportunities, please reach out via symmetry1@live.com
+For collaboration opportunities, reach out via symmetry1@live.com
 
 © 2024 Heath Hoppus
